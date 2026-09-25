@@ -1,6 +1,6 @@
 public class Main {
     void main() {
-        //Declarations
+        //Declaration
         double cardBalance = 5000.00;
         double interestRate = 0.17;
         double monthOneInterest = cardBalance * interestRate;
